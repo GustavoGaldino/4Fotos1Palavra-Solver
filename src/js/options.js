@@ -1,6 +1,5 @@
 let selectTag = document.getElementsByClassName('str-size')[0]
 
-
 const minStringSize = 3
 const maxStringSize = 12
 
