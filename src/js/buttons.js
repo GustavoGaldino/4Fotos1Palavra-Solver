@@ -1,6 +1,6 @@
 let divTag = document.getElementsByClassName('possible-chars')[0]
 
-charactersArray = [192,193,194,195,199,200,201,202,204,205,206,210,211,212,217,218,219]
+charactersArray = [199]
 
 
 for(let i = 90 ; i >= 65 ; i--){
