@@ -7,8 +7,8 @@
    be a possible answer.
 
 - About the 'palavras.txt' file:  
-    The 'palavras.txt' file contains more than 320.000 Brazilian Portuguese language words.  
-    This file was obtained from [this github repository.](https://github.com/pythonprobr/palavras)  
+    The 'palavras.txt' file contains more than 25.000 Brazilian Portuguese language words.  
+    This file was obtained from [this public website.](https://homepages.dcc.ufmg.br/~camarao/cursos/pc/2016a/)  
     
 - You can check it [here](https://cin.ufpe.br/~gcgm/solver)
 
